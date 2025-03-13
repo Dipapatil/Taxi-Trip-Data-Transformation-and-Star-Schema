@@ -10,7 +10,7 @@ Pandas, pyarrow
 
 ## ERD - Data Model - STAR Schema 
 
-![ERD of Data Transformation Project](https://github.com/Dipapatil/Uber-Trip-Data-Transformation-and-Star-Schema/blob/main/Data-Project%20-%20ERD.png)
+![ERD of Data Transformation Project](https://github.com/Dipapatil/Taxi-Trip-Data-Transformation-and-Star-Schema/blob/main/ERD-STAR-SCHEMA.jpeg)
 
 ## Code
 [Main_Jupyter_File_Code](https://github.com/Dipapatil/Uber-Trip-Data-Transformation-and-Star-Schema/blob/main/data_project_jupyter_file.ipynb)
